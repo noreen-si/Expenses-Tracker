@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Expenses Tracker</string>
+    <string name="title">Title</string>
+    <string name="cost">$%1$.2f</string>
+</resources>
